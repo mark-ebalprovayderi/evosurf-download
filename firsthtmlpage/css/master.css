@@ -1,0 +1,7 @@
+@font-face {
+    font-family: 'marvin';
+    src: url('fonts/ofont.ru_Marvin.ttf');
+}
+h1{
+    font-family: 'marvin';
+}
